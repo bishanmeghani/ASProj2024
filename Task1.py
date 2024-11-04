@@ -29,7 +29,7 @@ elif len(positions) == 2:
 else:
     output = f"The word {word} occurs in positions: "
     for p in range(0, len(positions)-1):
-        output = output + str(p) + ", "
+        output = output + str(positions[p]) + ", "
     output = output[:-2]
     output += " and " + str(positions[-1])
     print(output)
