@@ -1,5 +1,6 @@
 # ASProj2024
 CompressionEx
+
 This assessment consists of three tasks. 
 
 Candidates should complete all tasks and provide evidence to meet all the marking criteria. 
@@ -10,7 +11,7 @@ The results for a task may be used without further testing in any subsequent tas
 
 Compressing text 
 
-Task 1 
+<b>Task 1</b> 
 
 Develop a program that analyses a sentence that contains several words without punctuation. When a word in that sentence is input, the program identifies all of the positions where the word occurs in the sentence. The system should not be case sensitive: Ask. Ask, ASK should be treated as the same word. 
 
