@@ -41,11 +41,11 @@ Save the list of words and the positions of these words in the sentence as separ
 
 Analyse the requirements for this system and design, develop, test and evaluate a program to: 
 
-identify the individual words in a sentence and store them in a list  
+-identify the individual words in a sentence and store them in a list  
 
-create a list of positions for words in that list 
+-create a list of positions for words in that list 
 
-save these lists as a single file or as separate files. 
+-save these lists as a single file or as separate files. 
 
 <b>Task 3</b> 
 
