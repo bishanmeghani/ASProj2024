@@ -23,7 +23,7 @@ The word ‘COUNTRY’ occurs in the 5th and 17th positions.
 
 Analyse the requirements for this system and design, develop, test and evaluate a program to locate and return the position(s) of the word you have selected in a particular sentence or return an error message if the word is not in the sentence. 
 
-Task 2 
+<b>Task 2</b> 
 
 Develop a program that identifies individual words in a sentence, stores these in a list and replaces each word in the original sentence with the position of that word in the list. 
 
@@ -47,7 +47,7 @@ create a list of positions for words in that list
 
 save these lists as a single file or as separate files. 
 
-Task 3 
+<b>Task 3</b> 
 
 Develop a program that builds upon the technique from Task 2 to compress a text file with several sentences, including punctuation. The program should be able to compress a file into a list of words and list of positions to recreate the original file. It should also be able to take a compressed file and recreate the full text, including punctuation and capitalisation, of the original file. 
 
